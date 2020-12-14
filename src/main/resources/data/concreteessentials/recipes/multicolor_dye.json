@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "concreteessentials:multicolor_dye_part1"
+    },
+    {
+      "item": "concreteessentials:multicolor_dye_part2"
+    }
+  ],
+  "result":
+  {
+    "item": "concreteessentials:multicolor_dye",
+    "count": 1
+  }
+}
