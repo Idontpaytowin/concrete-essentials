@@ -7,6 +7,6 @@ In normal Minecraft, it's long to create concrete. So this mod makes it easier a
 
 [Releases Tab](https://github.com/Idontpaytowin/concrete-essentials/releases)
 
-The mod is compatible with Forge 35.1.0+
+## The mod is compatible with Forge 35.1.0+
 
 The description doesn't have to be long, right?
