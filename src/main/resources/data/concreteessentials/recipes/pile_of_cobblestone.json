@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "concreteessentials:iron_hammer"
+    },
+    {
+      "item": "minecraft:stone"
+    }
+  ],
+  "result":
+  {
+    "item": "concreteessentials:pile_of_cobblestone",
+    "count": 3
+  }
+}

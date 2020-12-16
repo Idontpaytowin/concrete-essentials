@@ -4,7 +4,7 @@ loaderVersion="[35,)" #mandatory This is typically bumped every Minecraft versio
 
 license="All rights reserved"
 
-issueTrackerURL="http://my.issue.tracker/" #optional
+issueTrackerURL="https://github.com/Idontpaytowin/concrete-essentials/issues" #optional
 
 [[mods]] #mandatory
 
@@ -14,9 +14,7 @@ version="1.16.4-0.0.3" #mandatory
 
 displayName="ConcreteEssentials" #mandatory
 
-updateJSONURL="http://myurl.me/" #optional
-
-displayURL="http://example.com/" #optional
+displayURL="https://github.com/Idontpaytowin/concrete-essentials" #optional
 
 logoFile="pack.png" #optional
 

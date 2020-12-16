@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "concreteessentials:multicolor_dye"
+      "item": "concreteessentials:multi_color_dye"
     },
     {
       "item": "minecraft:gravel"
