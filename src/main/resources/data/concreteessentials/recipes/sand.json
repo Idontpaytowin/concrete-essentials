@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "concreteessentials:pile_of_sand"
+    },
+    {
+      "item": "concreteessentials:pile_of_sand"
+    },
+    {
+      "item": "concreteessentials:pile_of_sand"
+    },
+    {
+      "item": "concreteessentials:pile_of_sand"
+    }
+  ],
+  "result":
+  {
+    "item": "minecraft:sand",
+    "count": 1
+  }
+}

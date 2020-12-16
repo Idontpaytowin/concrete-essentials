@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "concreteessentials:pile_of_gravel"
+    },
+    {
+      "item": "concreteessentials:pile_of_gravel"
+    },
+    {
+      "item": "concreteessentials:pile_of_gravel"
+    },
+    {
+      "item": "concreteessentials:pile_of_gravel"
+    }
+  ],
+  "result":
+  {
+    "item": "minecraft:gravel",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "concreteessentials:pile_of_dirt"
+    },
+    {
+      "item": "concreteessentials:pile_of_dirt"
+    },
+    {
+      "item": "concreteessentials:pile_of_dirt"
+    },
+    {
+      "item": "concreteessentials:pile_of_dirt"
+    }
+  ],
+  "result":
+  {
+    "item": "minecraft:dirt",
+    "count": 1
+  }
+}
