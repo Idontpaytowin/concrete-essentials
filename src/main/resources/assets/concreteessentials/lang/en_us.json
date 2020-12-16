@@ -1,12 +1,12 @@
 {
-  "item.concreteessentials.multi_color_dye": "MultiColor Dye",
-  "item.concreteessentials.multi_color_dye_part1": "MultiColor Dye Part 1",
-  "item.concreteessentials.multi_color_dye_part2": "MultiColor Dye Part 2",
+  "item.concreteessentials.multi_color_dye": "Multi Color Dye",
+  "item.concreteessentials.multi_color_dye_part1": "Multi Color Dye Part 1",
+  "item.concreteessentials.multi_color_dye_part2": "Multi Color Dye Part 2",
   "item.concreteessentials.iron_hammer": "Iron Hammer",
   "item.concreteessentials.pile_of_cobblestone": "Pile of Cobblestone",
   "item.concreteessentials.pile_of_gravel": "Pile of Gravel",
   "item.concreteessentials.pile_of_dirt": "Pile of Dirt",
   "item.concreteessentials.pile_of_sand": "Pile of Sand",
-  "block.concreteessentials.multi_color_concrete_powder": "MultiColor Concrete Powder",
+  "block.concreteessentials.multi_color_concrete_powder": "Multi Color Concrete Powder",
   "itemGroup.concreteTab": "Concrete Essentials"
 }
